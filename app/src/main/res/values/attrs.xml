@@ -1,0 +1,9 @@
+<resources>
+
+    <declare-styleable name="CustomCircle">
+        <attr name="cirColor" format="color"></attr>
+        <attr name="cirLabel" format="string"></attr>
+        <attr name="labelColor" format="color"></attr>
+
+    </declare-styleable>
+</resources>
